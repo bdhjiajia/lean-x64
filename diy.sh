@@ -13,3 +13,4 @@ git clone https://github.com/happyzhang1995/luci-app-adguardhome.git package/luc
 git clone https://github.com/happyzhang1995/openwrt-adguardhome.git package/openwrt-adguardhome
 ./scripts/feeds update -a
 ./scripts/feeds install -a
+
